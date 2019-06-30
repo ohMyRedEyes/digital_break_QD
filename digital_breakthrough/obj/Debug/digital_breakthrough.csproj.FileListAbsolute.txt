@@ -1,0 +1,75 @@
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\bin\Debug\digital_breakthrough.exe.config
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\bin\Debug\digital_breakthrough.exe
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\bin\Debug\digital_breakthrough.pdb
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.authorizations.resources
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.Properties.Resources.resources
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.exe
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.pdb
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.registration.resources
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.logical_center.resources
+C:\Users\Maxim\Desktop\Работа\Фриланс\104 заказ в программная инженерия\Готовое\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.Сarrier.resources
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\digital_breakthrough.exe.config
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\digital_breakthrough.exe
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\digital_breakthrough.pdb
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\SQLite.Designer.dll
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.dll
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\EnvDTE.dll
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\stdole.dll
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\SQLite.Designer.pdb
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\SQLite.Designer.xml
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.xml
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.authorizations.resources
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.logical_center.resources
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.Properties.Resources.resources
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.registration.resources
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.Сarrier.resources
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.csproj.CopyComplete
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.exe
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.pdb
+C:\Users\Maxim\Desktop\Конкурсы\Цифровой прорыв 2019\3 этап\Готовое решение\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.Chat.resources
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\digital_breakthrough.exe.config
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\digital_breakthrough.exe
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\digital_breakthrough.pdb
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\EnvDTE.dll
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\stdole.dll
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\SQLite.Designer.pdb
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\SQLite.Designer.xml
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.pdb
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.xml
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.authorizations.resources
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.Chat.resources
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.logical_center.resources
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.Properties.Resources.resources
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.registration.resources
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.Сarrier.resources
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.csproj.CopyComplete
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.exe
+C:\Users\denis\Desktop\Maxim_delete\Home\версия 2\digital_breakthrough\digital_breakthrough\obj\Debug\digital_breakthrough.pdb
